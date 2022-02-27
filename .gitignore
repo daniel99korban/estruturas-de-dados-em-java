@@ -1,5 +1,4 @@
-file_test.txt
 .idea
-out
-src
+out/
+src/
 DanielLima_ATV02.iml
